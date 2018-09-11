@@ -12,7 +12,7 @@ Template Name: Главная
       <div class="row justify-content-center">
       	<div class="col-md-12">
         	<?php echo do_shortcode('[recent_products per_page="4" columns="4"]'); 
-        	echo "111+222";?>
+        	echo "111+222+333";?>
         </div>
   		</div> 
     </div>	
